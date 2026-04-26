@@ -1,5 +1,5 @@
 BINARIO="./sem_pc"
-FONTE="sem_producer_consumer.c"
+FONTE="sem_produtor_consumidor.c"
 CSV_TEMPO="resultados_tempo.csv"
 REPETICOES=10  # número de execuções por combinação
 
